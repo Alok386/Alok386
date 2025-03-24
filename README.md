@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Alok386
+- 👋 Hi, I’m Alok
 - 👀 I’m interested in game
-- 🌱 I’m currently learning game development 
+- 🌱 I’m currently learning game development & web development
 - ⚡ Fun fact: Gamer
 
 <!---
