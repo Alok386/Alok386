@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alok
-- 👀 I’m interested in game
+- 👀 I’m interested in playing games
 - 🌱 I’m currently learning game development & web development
 - ⚡ Fun fact: Gamer
 
